@@ -1,0 +1,13 @@
+F:\OutLookDemos\OutlookAddIn1\bin\Debug\OutlookAddIn1.dll
+F:\OutLookDemos\OutlookAddIn1\bin\Debug\OutlookAddIn1.pdb
+F:\OutLookDemos\OutlookAddIn1\bin\Debug\OutlookAddIn1.dll.manifest
+F:\OutLookDemos\OutlookAddIn1\bin\Debug\OutlookAddIn1.vsto
+F:\OutLookDemos\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+F:\OutLookDemos\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+F:\OutLookDemos\OutlookAddIn1\obj\Debug\OutlookAddIn1.csprojResolveAssemblyReference.cache
+F:\OutLookDemos\OutlookAddIn1\obj\Debug\OutlookAddIn1.Properties.Resources.resources
+F:\OutLookDemos\OutlookAddIn1\obj\Debug\OutlookAddIn1.csproj.GenerateResource.Cache
+F:\OutLookDemos\OutlookAddIn1\obj\Debug\OutlookAddIn1.csproj.CoreCompileInputs.cache
+F:\OutLookDemos\OutlookAddIn1\obj\Debug\OutlookAddIn1.dll
+F:\OutLookDemos\OutlookAddIn1\obj\Debug\OutlookAddIn1.pdb
+F:\OutLookDemos\OutlookAddIn1\obj\Debug\OutlookAddIn1.EmailRibbon.resources
